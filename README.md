@@ -1,3 +1,8 @@
-Strategic communications and public relations professional with agency experience in PR strategy, media relations, influencer marketing, and multi-market campaign execution.
 
-My agency experience spans PR strategy, media relations, influencer marketing, client communications and multi-market campaign execution. I’m currently completing an M.A. in Communication at the University of New Mexico.
+Welcome to my professional portfolio.
+
+This site reflects my work and professional development across public relations, strategic communications, media relations, influencer marketing, and campaign strategy.
+
+## View Portfolio
+
+[Visit my live portfolio →](https://subulolaetimiri.github.io/Subulola-E-Portfolio-/)
